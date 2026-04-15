@@ -1,0 +1,3 @@
+npm create vite@latest nikshep-tv -- --template react
+cd nikshep-tv
+npm install
