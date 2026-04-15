@@ -18,6 +18,7 @@ const streams = [
     { id: 'fb-4', title: 'Fox Sports', url: 'https://dlstreams.top/stream/stream-369.php', category: 'Football Channels' },
 
     // CRICKET 
+    { id: 'cr-12', title: 'Astro Cricket (Primary 4K)', url: 'https://livetv.moviebite.cc/channels/Astro%20Cricket', category: 'Cricket Channels' },
     { id: 'cr-1', title: 'Sky Sports Cricket', url: 'https://dlstreams.top/stream/stream-65.php', category: 'Cricket Channels' },
     { id: 'cr-2', title: 'Star Sports 1', url: 'https://dlstreams.top/stream/stream-267.php', category: 'Cricket Channels' },
     { id: 'cr-3', title: 'Star Sports Stream 2', url: 'https://dlstreams.top/cast/stream-267.php', category: 'Cricket Channels' },
@@ -29,7 +30,6 @@ const streams = [
     { id: 'cr-9', title: 'Willow Cricket', url: 'https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket&code=us&user=cdnlivetv&plan=free', category: 'Cricket Channels' },
     { id: 'cr-10', title: 'Willow Alt Stream', url: 'https://dlstreams.top/stream/stream-370.php', category: 'Cricket Channels' },
     { id: 'cr-11', title: 'Astro Cricket HD', url: 'https://cdnlivetv.tv/api/v1/channels/player/?name=Astro%20Cricket&code=us&user=cdnlivetv&plan=free', category: 'Cricket Channels' },
-    { id: 'cr-12', title: 'Astro Cricket (Server 2)', url: 'https://livetv.moviebite.cc/channels/Astro%20Cricket', category: 'Cricket Channels' },
 
     // PREMIUM BACKUPS
     { id: 'pr-1', title: 'Nikshep Premium (SS Backup)', url: 'https://dlstreams.top/cast/stream-346.php', category: 'Server Backups' },
